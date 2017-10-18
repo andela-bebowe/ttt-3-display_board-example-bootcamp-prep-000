@@ -7,7 +7,7 @@ def divider
 end
 def display_board
 # puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   "
-board = bars + dividider + bars + divider + bars
+board = bars + divider + bars + divider + bars
 end
 
 display_board
